@@ -1,0 +1,174 @@
+[
+    {
+      "title": "Fake News Detector",
+      "tools": ["Python", "NLP", "Scikit-learn"],
+      "skills": ["python", "nlp"],
+      "duration": 3,
+      "domain": "AI/ML",
+      "difficulty": "Intermediate",
+      "description": "Detect fake news headlines using text classification and NLP features."
+    },
+    {
+      "title": "AI Notes to PPT Generator",
+      "tools": ["Python", "GPT", "Streamlit"],
+      "skills": ["python", "nlp", "gpt"],
+      "duration": 4,
+      "domain": "AI/ML",
+      "difficulty": "Intermediate",
+      "description": "Turn lecture notes into clean PowerPoint slides using AI."
+    },
+    {
+      "title": "Budget Tracker with Smart Alerts",
+      "tools": ["Python", "Streamlit", "Pandas"],
+      "skills": ["python", "pandas"],
+      "duration": 2,
+      "domain": "Web",
+      "difficulty": "Beginner",
+      "description": "Track expenses and get AI-generated saving suggestions."
+    },
+    {
+      "title": "Personalized Learning Path Recommender",
+      "tools": ["Python", "Sklearn"],
+      "skills": ["python", "ml"],
+      "duration": 3,
+      "domain": "AI/ML",
+      "difficulty": "Intermediate",
+      "description": "AI recommends a custom course plan based on your interests."
+    },
+    {
+      "title": "Unity Web Export Game",
+      "tools": ["Unity", "WebGL", "C#"],
+      "skills": ["unity", "c#", "web"],
+      "duration": 10,
+      "domain": "Game Dev",
+      "difficulty": "Advanced",
+      "description": "Create a 3D game using Unity and export it to the browser using WebGL."
+    },
+    {
+      "title": "Student Record System using C",
+      "tools": ["C", "File Handling"],
+      "skills": ["c"],
+      "duration": 3,
+      "domain": "Software",
+      "difficulty": "Beginner",
+      "description": "Create a command-line app to manage student records using C and file I/O."
+    },
+    {
+      "title": "Weather App in C++ with API",
+      "tools": ["C++", "REST APIs"],
+      "skills": ["c++"],
+      "duration": 4,
+      "domain": "Software",
+      "difficulty": "Beginner",
+      "description": "Build a simple weather app using C++ and open weather APIs for live data."
+    },
+    {
+      "title": "Library System in Java (Swing)",
+      "tools": ["Java", "Swing"],
+      "skills": ["java"],
+      "duration": 5,
+      "domain": "Software",
+      "difficulty": "Intermediate",
+      "description": "Create a GUI-based book management app using Java Swing."
+    },
+    {
+      "title": "Portfolio Website (Fullstack)",
+      "tools": ["HTML", "CSS", "JS", "Node.js", "MongoDB"],
+      "skills": ["fullstack", "html", "css", "js", "mongodb"],
+      "duration": 6,
+      "domain": "Web",
+      "difficulty": "Intermediate",
+      "description": "Build and host your own fullstack personal website with a contact form and project list."
+    },
+    {
+      "title": "MERN Stack Blog Platform",
+      "tools": ["MongoDB", "Express", "React", "Node.js"],
+      "skills": ["mern", "react", "node", "mongodb"],
+      "duration": 7,
+      "domain": "Web",
+      "difficulty": "Advanced",
+      "description": "Develop a fully functional blog platform with login and CRUD features using the MERN stack."
+    },
+    {
+      "title": "Personal Finance App with Flutter",
+      "tools": ["Flutter", "Dart"],
+      "skills": ["flutter"],
+      "duration": 5,
+      "domain": "Mobile",
+      "difficulty": "Intermediate",
+      "description": "Design a cross-platform app for expense tracking and budget management using Flutter."
+    },
+    {
+      "title": "Mobile Chat App in Kotlin",
+      "tools": ["Kotlin", "Firebase"],
+      "skills": ["kotlin"],
+      "duration": 6,
+      "domain": "Mobile",
+      "difficulty": "Advanced",
+      "description": "Create a real-time chat app using Kotlin and Firebase for Android."
+    },
+    {
+      "title": "Restaurant Website in React",
+      "tools": ["React", "Bootstrap", "API"],
+      "skills": ["react"],
+      "duration": 5,
+      "domain": "Web",
+      "difficulty": "Intermediate",
+      "description": "Build a dynamic restaurant site with interactive menus and customer feedback features."
+    },
+    {
+      "title": "VFX Short Clip using After Effects",
+      "tools": ["Adobe After Effects"],
+      "skills": ["vfx", "video editing"],
+      "duration": 3,
+      "domain": "Media",
+      "difficulty": "Intermediate",
+      "description": "Create a short cinematic video with VFX effects like teleportation or explosions."
+    },
+    {
+      "title": "Logo & Poster Design Portfolio",
+      "tools": ["Photoshop", "Canva", "Figma"],
+      "skills": ["graphic design"],
+      "duration": 2,
+      "domain": "Design",
+      "difficulty": "Beginner",
+      "description": "Design 5 unique posters and logos for different events and build a visual portfolio."
+    },
+    {
+      "title": "Game UI Design with Figma",
+      "tools": ["Figma"],
+      "skills": ["game design", "figma"],
+      "duration": 3,
+      "domain": "Game Dev",
+      "difficulty": "Intermediate",
+      "description": "Design a clean and interactive UI for a game menu, inventory, and HUD using Figma."
+    },
+    {
+      "title": "SQL-Based Hospital Database",
+      "tools": ["MySQL", "XAMPP"],
+      "skills": ["sql"],
+      "duration": 4,
+      "domain": "Database",
+      "difficulty": "Intermediate",
+      "description": "Design a normalized database for managing patients, doctors, and appointments."
+    },
+    {
+      "title": "Basic Ruby Task Manager",
+      "tools": ["Ruby"],
+      "skills": ["ruby"],
+      "duration": 3,
+      "domain": "Software",
+      "difficulty": "Beginner",
+      "description": "Create a console-based task manager app using Ruby to track daily todos."
+    },
+    {
+      "title": "YouTube Shorts Editor AI Tool",
+      "tools": ["Python", "MoviePy", "Tkinter"],
+      "skills": ["video editing", "python"],
+      "duration": 4,
+      "domain": "Media",
+      "difficulty": "Advanced",
+      "description": "Build a tool that auto-cuts videos to 60-second shorts and adds subtitles."
+    }
+  ]
+  
