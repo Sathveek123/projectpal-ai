@@ -36,7 +36,7 @@ def recommend_projects(skills, days, domain=None, difficulty=None, use_gpt=False
     # GPT fallback using OpenAI >=1.0.0 API
     if use_gpt:
         try:
-            client = openai.OpenAI(api_key=os.getenv("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"))
+            client = openai.OpenAI(api_key=os.getenv("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"))
 
             prompt = (
                 f"Suggest 3 unique project ideas for a student with skills in {', '.join(skills)}, "
